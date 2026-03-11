@@ -1,6 +1,10 @@
 ---
-task:
-    title: 'WWL Frontier Hack Event – Make the Case'
+lab:
+  title: Untitled exercise
+  description: '**Suggested time:** 10 minutes'
+  duration: 10 minutes
+  level: 100
+  islab: true
 ---
 
 ## Step 5: Make the Case
