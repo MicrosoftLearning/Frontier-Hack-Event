@@ -1,6 +1,10 @@
 ---
-task:
-    title: 'WWL Frontier Hack Event – Explore AI Solutions'
+lab:
+  title: Untitled exercise
+  description: '**Suggested time:** 20 minutes'
+  duration: 20 minutes
+  level: 100
+  islab: true
 ---
 
 ## Step 4: Explore AI Solutions  
