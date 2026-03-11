@@ -1,6 +1,10 @@
 ---
-task:
-    title: 'WWL Frontier Hack Event – Break Down the Problem'
+lab:
+  title: Untitled exercise
+  description: '**Suggested time:** 10 minutes'
+  duration: 10 minutes
+  level: 200
+  islab: true
 ---
 
 ## Step 3: Break Down the Problem  
