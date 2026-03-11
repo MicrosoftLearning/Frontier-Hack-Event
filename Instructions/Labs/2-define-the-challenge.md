@@ -1,6 +1,10 @@
 ---
-task:
-    title: 'WWL Frontier Hack Event – Define the Challenge'
+lab:
+  title: Untitled exercise
+  description: '**Suggested time:** 10 minutes'
+  duration: 10 minutes
+  level: 200
+  islab: true
 ---
 
 ## Step 2: Define the Challenge
