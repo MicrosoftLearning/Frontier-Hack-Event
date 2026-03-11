@@ -1,6 +1,10 @@
 ---
-task:
-    title: 'WWL Frontier Hack Event – Submit Your Idea'
+lab:
+  title: Untitled exercise
+  description: '**Suggested time:** 10 minutes'
+  duration: 10 minutes
+  level: 100
+  islab: true
 ---
 
 ## Step 6: Submit Your Idea
